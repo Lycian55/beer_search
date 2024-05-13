@@ -1,7 +1,6 @@
 import express from "express";
 import axios from "axios";
 import bodyParser from "body-parser";
-import $ from "jquery";
 
 const app = express();
 const port = 3000;
